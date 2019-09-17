@@ -6,4 +6,5 @@ def square_array(array)
     |number| squared_array[counter] = number ** 2
     counter += 1
   end
+  squared_array
 end
